@@ -8,6 +8,7 @@ Web Development : HTML, CSS  <br>
 Other Technical Skills : Basics of DSA, MySQL, DBMS, OOPs in Java, Familiar with Software Development Life Cycle.  <br>
 Interests : Vloging, Travelling, Computer games, Playing Cricket  <br>
 Tools and Technologies : Canva, Lumafusion
+<br><hr>
 TRAININGS AND CERTIFICATIONS
 JAVA Certification Apna College
 ● This certification validates my advanced proficiency in Java programming
